@@ -1,0 +1,3 @@
+## GBP/USD Trading Strategy: Integrating FinBERT Sentiment with Decision Tree Models
+
+This project, developed as part of the HEC Trading Club research fund, focuses on building a Forex trading strategy that integrates sentiment scores extracted with FinBERT and tree-based models (Random Forest, XGBoost). The goal is to predict market regimes and enhance decision-making by leveraging short-term informational inefficiencies.
