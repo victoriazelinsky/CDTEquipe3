@@ -1,1 +1,3 @@
-./Code/venv
+.\code\venv\*
+
+.\code\finbert_forex_finetuned\*
